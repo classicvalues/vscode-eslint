@@ -522,7 +522,7 @@
 		"@typescript-eslint/parser": "^4.32.0",
 		"eslint": "^7.32.0",
 		"merge-options": "^3.0.4",
-		"mocha": "^9.1.2",
+		"mocha": "^9.2.2",
 		"rimraf": "^3.0.2",
 		"ts-loader": "^9.2.6",
 		"typescript": "^4.5.2",
